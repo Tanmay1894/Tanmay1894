@@ -96,16 +96,15 @@
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Tanmay1894&show_icons=true&theme=tokyonight&hide_border=true"
+    src="./profile/stats.svg"
     alt="Tanmay's GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay1894&layout=compact&theme=tokyonight&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Tanmay's Top Languages"
   />
 </p>
-
 ---
 
 <h3 align="center">Certifications</h3>

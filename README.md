@@ -105,6 +105,7 @@
     alt="Tanmay's Top Languages"
   />
 </p>
+
 ---
 
 <h3 align="center">Certifications</h3>
